@@ -1,3 +1,21 @@
+# Horiseon
+
+## Purpose
+
+A website that offers services in Search Engine Optimization, Online Reputation Management and Social Media Marketing
+
+## Built With
+
+* HTML
+
+* CSS
+
+## Website
+
+## Contribution
+
+Made with ❤️ by Bryan Dumpit
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
