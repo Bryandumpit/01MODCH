@@ -6,9 +6,9 @@ A website that offers services in Search Engine Optimization, Online Reputation 
 
 ## Built With
 
-* HTML
+*   HTML
 
-* CSS
+*   CSS
 
 ## Website
 
@@ -18,7 +18,18 @@ A website that offers services in Search Engine Optimization, Online Reputation 
 
 Made with ❤️ by Bryan Dumpit
 
-# 01 HTML, CSS, and Git: Code Refactor
+## Project Details
+*   index.html was refactored to update div elements to more specific semantic elements such as: section, main, aside
+*   SEO header link was fixed to point to SEO content.
+*   Differentiated IDs from Classes (added '-' before the IDs).
+*   style.css was reorganized to follow the same structure of the HTML.
+*   .hero background image was moved from CSS to HTML. This was to allow for the image to be assigned 
+    with an alt attribute within the img element. As a result, the CSS rule for .hero was updated to style the previous background image as an object (i.e. background-fit: cover; and background-position: center to object-fit: cover; object-position:cover)
+*   README.md was updated to inlcude project purpose, built-with, website, contribution, details.
+
+## Coding Bootcamp: Module 01 Challenge - Description:
+
+### 01 HTML, CSS, and Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
@@ -30,7 +41,7 @@ Remember when working with a client, it is essential to read the acceptance crit
 
 To successfully complete this week's Challenge, all acceptance criteria must be fully addressed!
 
-## User Story
+### User Story
 
 ```
 AS A marketing agency
@@ -38,7 +49,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our site is optimized for search engines
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```
 GIVEN a webpage that meets accessibility standards
@@ -54,7 +65,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Review
+### Review
 
 You are required to submit the following for review:
 
