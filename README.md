@@ -12,7 +12,9 @@ A website that offers services in Search Engine Optimization, Online Reputation 
 
 ## Website
 
- https://bryandumpit.github.io/01MODCH/
+ https://bryandumpit.github.io/Horiseon-CodeRefactor/
+
+ ![HoriseonScreenshot](./assets/images/Horiseon%20Screenshot.PNG)
 
 ## Contribution
 
